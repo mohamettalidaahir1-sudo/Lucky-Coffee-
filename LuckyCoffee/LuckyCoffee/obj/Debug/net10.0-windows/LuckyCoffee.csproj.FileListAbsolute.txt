@@ -1,0 +1,17 @@
+D:\C# classwork\LuckyCoffee\LuckyCoffee\bin\Debug\net10.0-windows\LuckyCoffee.exe
+D:\C# classwork\LuckyCoffee\LuckyCoffee\bin\Debug\net10.0-windows\LuckyCoffee.deps.json
+D:\C# classwork\LuckyCoffee\LuckyCoffee\bin\Debug\net10.0-windows\LuckyCoffee.runtimeconfig.json
+D:\C# classwork\LuckyCoffee\LuckyCoffee\bin\Debug\net10.0-windows\LuckyCoffee.dll
+D:\C# classwork\LuckyCoffee\LuckyCoffee\bin\Debug\net10.0-windows\LuckyCoffee.pdb
+D:\C# classwork\LuckyCoffee\LuckyCoffee\obj\Debug\net10.0-windows\LuckyCoffee.Form1.resources
+D:\C# classwork\LuckyCoffee\LuckyCoffee\obj\Debug\net10.0-windows\LuckyCoffee.csproj.GenerateResource.cache
+D:\C# classwork\LuckyCoffee\LuckyCoffee\obj\Debug\net10.0-windows\LuckyCoffee.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# classwork\LuckyCoffee\LuckyCoffee\obj\Debug\net10.0-windows\LuckyCoffee.AssemblyInfoInputs.cache
+D:\C# classwork\LuckyCoffee\LuckyCoffee\obj\Debug\net10.0-windows\LuckyCoffee.AssemblyInfo.cs
+D:\C# classwork\LuckyCoffee\LuckyCoffee\obj\Debug\net10.0-windows\LuckyCoffee.csproj.CoreCompileInputs.cache
+D:\C# classwork\LuckyCoffee\LuckyCoffee\obj\Debug\net10.0-windows\LuckyCoffee.dll
+D:\C# classwork\LuckyCoffee\LuckyCoffee\obj\Debug\net10.0-windows\refint\LuckyCoffee.dll
+D:\C# classwork\LuckyCoffee\LuckyCoffee\obj\Debug\net10.0-windows\LuckyCoffee.pdb
+D:\C# classwork\LuckyCoffee\LuckyCoffee\obj\Debug\net10.0-windows\LuckyCoffee.genruntimeconfig.cache
+D:\C# classwork\LuckyCoffee\LuckyCoffee\obj\Debug\net10.0-windows\ref\LuckyCoffee.dll
+D:\C# classwork\LuckyCoffee\LuckyCoffee\obj\Debug\net10.0-windows\LuckyCof.4031925C.Up2Date

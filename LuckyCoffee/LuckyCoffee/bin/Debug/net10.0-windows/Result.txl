@@ -1,0 +1,15 @@
+1) mohamett-Tea-Lucky-16-$1.00
+2) mohamett-Tea-Lucky-18-$1.00
+3) mohamett-Tea-Lucky-49-$1.00
+4) mohamett-Tea-Lucky-8-$1.00
+5) mohamett-Tea-Lucky-28-$1.00
+6) mohamett-Tea-Lucky-23-$1.00
+7) mohamett-Tea-Lucky-4-$1.00
+8) mohamett-Tea-Lucky-3-$1.00
+9) mohamett-Tea-Lucky-27-$1.00
+10) mohamett-Tea-Lucky-25-$1.00
+11) mohamett-Tea-Lucky-40-$1.00
+12) mohamett-Tea-Lucky-49-$1.00
+13) mohamett-Tea-Lucky-19-$1.00
+14) mohamett-Tea-Lucky-32-$1.00
+15) mohamett-Tea-Lucky-2-$1.00
